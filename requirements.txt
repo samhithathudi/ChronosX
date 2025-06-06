@@ -1,0 +1,4 @@
+newsapi-python
+newsapi-python
+beautifulsoup4
+nltk
