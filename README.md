@@ -1,4 +1,4 @@
-# ChronosX: Quant News Sentiment Research Pipeline
+# ChronosX: Advanced Federated AI-Driven Quantitative Trading Pipeline
 
 ChronosX is an end-to-end automated research pipeline for analyzing the effect of news on the stock market.
 
